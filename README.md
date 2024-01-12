@@ -1,2 +1,2 @@
 # Demo
-This is demo to show git activities
+This is demo to show git activities / commandoes
